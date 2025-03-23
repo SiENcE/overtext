@@ -1,0 +1,6 @@
+# Core dependencies
+pillow>=10.1.0
+numpy>=1.26.0
+scikit-image>=0.22.0
+easyocr>=1.7.1
+deep-translator>=1.11.4
